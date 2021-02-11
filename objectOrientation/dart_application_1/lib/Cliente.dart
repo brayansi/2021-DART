@@ -1,0 +1,5 @@
+class Client {
+  String name;
+  String cpf;
+  String profession;
+}
